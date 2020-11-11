@@ -13,6 +13,7 @@ Soy Alejo Tabraj 😃. Amante de la tecnología newbie en desarrollo web pero ya
 - Front-end development usando **HTML, Javascript, CSS, Bootstrap, ReactJS**
 - Backend development usando **Flask, NodeJS**
 - ORM's para **Sistemas de gestión de bases de datos relacionales**
+- API's usando arquitecturas **REST, GraphQL**
 ## Hola mundo!! 🤔
 ## 💬 Contacto.
 - 📫 Emails: alejhotabraj@gmail.com / atabraj@fi.uba.ar
