@@ -8,7 +8,7 @@
 Soy Alejo Tabraj 😃. Amante de la tecnología newbie en desarrollo web pero ya sumergido hasta la cabeza.
 ## 👯 Comunidades
 * Amazon Web Services Educate
-* AIESEC / desarrollo social en comunidades vulnerables
+* AIESEC / desarrollo social
 ## ⚡ Tecnologías
 - Front-end development usando **HTML, Javascript, CSS, Bootstrap, ReactJS**
 - Backend development usando **Flask, NodeJS**
@@ -17,7 +17,7 @@ Soy Alejo Tabraj 😃. Amante de la tecnología newbie en desarrollo web pero ya
 ## Hola mundo!! 🤔
 ## 💬 Contacto.
 - 📫 Emails: alejhotabraj@gmail.com / atabraj@fi.uba.ar
-- 🎯 Sitio Web: [Alejo Page](https://alejho4.github.io/)
+- 🎯 Sitio Web: [Alejo Page](https://alejotabraj.educationhost.cloud/)
 - 🔔 LinedIn: [Perfil](https://www.linkedin.com/in/alejo-tabraj-brice%C3%B1o-017b95a5/)
 
 
