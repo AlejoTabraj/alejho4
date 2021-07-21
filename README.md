@@ -5,7 +5,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-alejho4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejo-tabraj-brice%C3%B1o-017b95a5/)](https://www.linkedin.com/in/alejo-tabraj-brice%C3%B1o-017b95a5/) 
 [![Gmail Badge](https://img.shields.io/badge/-alejhotabraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alejhotabraj@gmail.com)](mailto:alejhotabraj@gmail.com)
 
-Soy Alejo Tabraj 😃. Amante de la tecnología newbie en desarrollo web pero ya sumergido hasta la cabeza.
+Soy Alejo Tabraj 😃. Amante de la tecnología y de los animales.
 ## 👯 Comunidades
 * Amazon Web Services Educate
 * AIESEC / desarrollo social
